@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Backend for makertificate",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanskarOH/Makertificate.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "mongo"
+  ],
+  "author": "Sanskar Diwedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanskarOH/Makertificate/issues"
+  },
+  "homepage": "https://github.com/sanskarOH/Makertificate#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.2"
+  }
+}
